@@ -1,0 +1,1 @@
+# MiniEhandel1-SQL
