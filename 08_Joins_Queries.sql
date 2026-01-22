@@ -1,7 +1,6 @@
 USE MiniHandelDB;
 GO
 
--- OrderItems + Products (utan UnitPrice)
 SELECT
     oi.OrderItemId,
     o.OrderId,
